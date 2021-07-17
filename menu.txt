@@ -1,0 +1,20 @@
+{
+  "menu_id": "xpbank_menu_id",
+  "parent_menu_id": "blt_options",
+  "title": "xpb_options_menu_name",
+  "description": "xpb_options_menu_desc",
+  "items": [
+    {
+      "type": "slider",
+      "id": "xpb_multiplier_slider",
+      "title": "xpb_multiplier_slider_name",
+      "description": "xpb_multiplier_slider_desc",
+      "callback": "xpb_multiplier_slider_clbk",
+      "value": "xpb_multiplier_value",
+      "default_value": 0.7,
+      "max": 1,
+      "min": 0.1,
+      "step": 0.1
+    }
+  ]
+}

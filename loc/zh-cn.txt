@@ -1,0 +1,21 @@
+{
+  "xpb_keybind_name": "打开菜单",
+  "xpb_keybind_desc": "设置快捷键来打开XP Bank菜单",
+  "xpb_menu_title": "经验银行",
+  "xpb_menu_desc_level": "你现在的等级是 %d",
+  "xpb_menu_desc_balance": "\n你有 %s 的经验被存储",
+  "xpb_menu_desc_100": "\n\n你必须低于100级才能提取经验",
+  "xpb_menu_desc_low_bal": "\n\n你没有足够的经验来升级",
+  "xpb_menu_desc_lvl_up": "\n\n你可以提升你的等级达到 %d\n这将花费你 %s 的经验",
+  "xpb_menu_confirm": "确认",
+  "xpb_menu_cancel": "取消",
+  "xpb_menu_level": "等级 %d",
+  "xpb_menu_picker": "选择等级",
+  "xpb_menu_page_lower": "更低",
+  "xpb_menu_page_higher": "更高",
+  "xpb_menu_chosen_level": "你选择等级 %d",
+  "xpb_menu_xp_deducted": "\n你提取 %s 经验从你的账户",
+  "xpb_menu_xp_balance": "\n\n你还有 %s 的剩余经验",
+  "xpb_game_deposited": "存储: %s | 余额: %s",
+  "xpb_game_limit_reached": "已达到存储上限 | 余额: %s"
+}
