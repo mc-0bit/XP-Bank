@@ -2,7 +2,7 @@
     {
       "ident": "XPBank",
       "version": "1.2.1.1",
-      "download_url": "https://bitbucket.org/pd2-rs/xp-bank/downloads/XP_Bank.zip",
-      "patchnotes_url": "https://modworkshop.net/mod/31975#changelog"
+      "download_url": "https://github.com/mc-0bit/XP-Bank/releases/latest/download/XP.Bank.zip",
+      "patchnotes_url": "https://github.com/mc-0bit/XP-Bank/blob/master/changelog.txt"
     }
   ]
