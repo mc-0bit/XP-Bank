@@ -35,7 +35,7 @@
     {
     "identifier": "XPBank",
     "host": {
-        "meta": "https://bitbucket.org/pd2-rs/xp-bank/downloads/meta.json"
+        "meta": "https://raw.githubusercontent.com/mc-0bit/XP-Bank/master/meta.json"
       }
     }
   ]
