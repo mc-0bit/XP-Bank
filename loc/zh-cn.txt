@@ -17,5 +17,9 @@
   "xpb_menu_xp_deducted": "\n你提取 %s 经验从你的账户",
   "xpb_menu_xp_balance": "\n\n你还有 %s 的剩余经验",
   "xpb_game_deposited": "存储: %s | 余额: %s",
-  "xpb_game_limit_reached": "已达到存储上限 | 余额: %s"
+  "xpb_game_limit_reached": "已达到存储上限 | 余额: %s",
+  "xpb_options_menu_name": "XP Bank",
+  "xpb_options_menu_desc": "设置您想要的体验乘数",
+  "xpb_multiplier_slider_name": "经验乘数",
+  "xpb_multiplier_slider_desc": "设置您想要的体验乘数"
 }
