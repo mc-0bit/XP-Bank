@@ -35,7 +35,7 @@
     {
     "identifier": "XPBankEnhanced",
     "host": {
-        "meta": "https://github.com/mc-0bit/XP-Bank-Enhanced/releases/latest/download/meta.json"
+        "meta": "https://raw.githubusercontent.com/mc-0bit/XP-Bank-Enhanced/master/meta.json"
       }
     }
   ]
