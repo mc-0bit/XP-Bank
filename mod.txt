@@ -35,7 +35,7 @@
     {
     "identifier": "XPBank",
     "host": {
-        "meta": "https://raw.githubusercontent.com/mc-0bit/XP-Bank/master/meta.json"
+        "meta": "https://raw.githubusercontent.com/mc-0bit/XP-Bank-Enhance/master/meta.json"
       }
     }
   ]
