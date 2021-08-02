@@ -37,7 +37,7 @@ Now you can enjoy Payday 2 at its fullest without going through the tedious grin
 
 *NOTE: After withdrawing XP, be sure to go to your Inventory afterwards for the changes to reflect, then back out to the main menu for the changes to save!*
 
-For more information you may visit [XP Bank Enhanced](https://modworkshop.net/mod/31975 "XP Bank Enhanced")(does not exist yet) or the original [XP Bank](https://modworkshop.net/mod/31975 "XP Bank") Modworkshop pages
+For more information you may visit [XP Bank Enhanced](https://modworkshop.net/mod/33453 "XP Bank Enhanced") or the original [XP Bank](https://modworkshop.net/mod/31975 "XP Bank") Modworkshop pages
 
-# Licence is GNU General Public License
+# Licence is GNU General Public License v3.0
 You can find the original authors mod on [Modworkshop](https://modworkshop.net/mod/31975) or on [Bitbucket](https://bitbucket.org/pd2-rs/xp-bank/src/master/)
