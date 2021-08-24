@@ -397,6 +397,31 @@ function XPBankMod.add_slider_callback()
   end
 end    
 
+function XPBankMod.reset_stored_exp()
+  XPBankMod._data.stored = 0
+  XPBankMod.save()
+end 
+
+function XPBankMod.add_remove_exp_callback()
+  MenuCallbackHandler.xpb_remove_exp_clbk = function(self)
+    local menu_title = managers.localization:text("xpb_remove_exp_name")
+    local menu_message = managers.localization:text("xpb_remove_exp_text")
+    local menu_options = {
+        [1] = {
+            text = managers.localization:text("xpb_menu_confirm"),
+            callback = function() XPBankMod.reset_stored_exp() end,
+        },
+        [2] = {
+            text = managers.localization:text("xpb_menu_cancel"),
+            is_cancel_button = true,
+        },
+    }
+    local menu = QuickMenu:new( menu_title, menu_message, menu_options )
+    menu:Show()
+  end
+end
+
+
 if RequiredScript == "lib/managers/experiencemanager" then
   XPBankMod.exp_prehook()
 elseif RequiredScript == "lib/managers/crimespreemanager" then
@@ -404,4 +429,5 @@ elseif RequiredScript == "lib/managers/crimespreemanager" then
 elseif RequiredScript == "lib/managers/menumanager" then
   XPBankMod.add_options_menu()
   XPBankMod.add_slider_callback()
+  XPBankMod.add_remove_exp_callback()
 end    

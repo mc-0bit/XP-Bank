@@ -15,6 +15,13 @@
       "max": 1,
       "min": 0.1,
       "step": 0.1
+    },
+    {
+      "type": "button",
+      "id": "xpb_remove_exp",
+      "title": "xpb_remove_exp_name",
+      "description": "xpb_remove_exp_desc",
+      "callback": "xpb_remove_exp_clbk"
     }
   ]
 }
