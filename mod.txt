@@ -3,7 +3,7 @@
 	"description": "Store XP while you're level 100 and then withdraw it when you Infamy",
 	"author": "MiBi250",
 	"contact": "",
-	"version": "v1.2.2",
+	"version": "1.2.4.1",
   "priority": 10,
   "blt_version": 2,
   "keybinds": [

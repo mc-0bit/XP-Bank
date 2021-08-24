@@ -1,6 +1,14 @@
+v1.2.4.1 **Enhanced Edition change**
+* Added option to reset stored exp
+
+v1.2.4
+* Added German translation courtesy of Der Fuzeler
+
+v1.2.3
+* Added Spanish translation courtesy of WereWhusky
+
 v1.2.2
-Fixed
-* issue with Chinese (Simplified) translation not loading up
+* Fixed issue with Chinese (Simplified) translation not loading up
 
 v1.2.1.1 **Enhanced Edition change**
 * Added a slider in the mod options that allows you to freely adjust your XP multiplier from 0.1 to 1
