@@ -21,5 +21,8 @@
   "xpb_options_menu_name": "XP Bank",
   "xpb_options_menu_desc": "Set your desired XP multiplier",
   "xpb_multiplier_slider_name": "XP Multiplier",
-  "xpb_multiplier_slider_desc": "Set your desired XP multiplier"
+  "xpb_multiplier_slider_desc": "Set your desired XP multiplier",
+  "xpb_remove_exp_name": "Remove stored XP",
+  "xpb_remove_exp_desc": "Remove stored XP",
+  "xpb_remove_exp_text": "Are you sure that you want to remove all of your stored XP?"
 }

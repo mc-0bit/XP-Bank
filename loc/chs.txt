@@ -21,5 +21,8 @@
   "xpb_options_menu_name": "XP Bank",
   "xpb_options_menu_desc": "设置您想要的体验乘数",
   "xpb_multiplier_slider_name": "经验乘数",
-  "xpb_multiplier_slider_desc": "设置您想要的体验乘数"
+  "xpb_multiplier_slider_desc": "设置您想要的体验乘数",
+  "xpb_remove_exp_name": "删除存储的经验",
+  "xpb_remove_exp_desc": "删除存储的经验",
+  "xpb_remove_exp_text": "您确定要删除所有存储的体验吗？"
 }
